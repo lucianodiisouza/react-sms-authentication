@@ -6,6 +6,8 @@ Using google/firebase console to login with SMS from a mobile number (Brazilian 
 
 After clone projet, run `yarn` to install project dependencies (each time that one developer users npm, an unicorn loses your horn...).<br />
 
+Be sure to rename `.renamethis.env` to `.env` and fill up all REACT variables using your Firebase Project's info.<br />
+
 run `yarn start` at your console, to run this project locally on http://localhost:3000.<br />
 
 ### Libs used:
